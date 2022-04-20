@@ -1,2 +1,2 @@
 # Site-responsivo
-site pessoal responsivi feito pelo sublime
+Meu primeiro site pessoal responsivel feito pelo sublime
